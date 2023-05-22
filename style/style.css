@@ -1,0 +1,90 @@
+.container {
+	margin-top: 50px;
+}
+.card {
+	width: 22rem;
+	background: #1e2939;
+}
+.card-title {
+	font-family: "Montserrat";
+	font-weight: 700;
+	font-size: 22px;
+	line-height: 27px;
+	color: #ffffff;
+}
+
+.contact {
+	font-family: "Montserrat";
+	font-size: 14px;
+	line-height: 24px;
+	color: #ffffff;
+}
+.card-text span {
+	text-transform: uppercase;
+	font-family: "Montserrat";
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 24px;
+	color: #ffffff;
+	padding-right: 10px;
+}
+li {
+	font-family: "Montserrat";
+	font-size: 14px;
+	line-height: 24px;
+	color: #fb6d3a;
+}
+li span {
+	color: #ffffff;
+}
+.second-title {
+	font-family: "Montserrat";
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 17px;
+	color: #000000;
+}
+.title {
+	margin-top: 50px;
+	font-family: "Montserrat";
+	font-weight: 700;
+	font-size: 45px;
+	line-height: 55px;
+	color: #000000;
+}
+.text {
+	margin-top: 30px;
+	font-family: "Montserrat";
+	font-size: 14px;
+	line-height: 24px;
+	color: #595959;
+}
+.middle-title {
+	margin-top: 50px;
+	font-family: "Montserrat";
+	font-weight: 700;
+	font-size: 22px;
+	line-height: 27px;
+	color: #000000;
+}
+.title-project {
+	font-family: "Montserrat";
+	font-weight: 500;
+	font-size: 18px;
+	line-height: 27px;
+	color: #000000;
+}
+.text-project {
+	font-family: "Montserrat";
+	font-size: 14px;
+	line-height: 24px;
+	color: #ffffff;
+}
+@media (max-width: 992px) {
+	.card {
+		width: 100%;
+	}
+	.second-title {
+		margin-top: 50px;
+	}
+}
